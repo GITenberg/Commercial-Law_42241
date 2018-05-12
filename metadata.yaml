@@ -1,0 +1,41 @@
+_repo: Commercial-Law_42241
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42241-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Currier, Richard D. (Richard Dudley)
+    birthdate: 1877
+    gutenberg_agent_id: '41589'
+    url: http://www.gutenberg.org/2009/agents/41589
+  - agent_name: Hill, Richard William
+    alias: Hill, Richard W.
+    birthdate: 1878
+    deathdate: 1947
+    gutenberg_agent_id: '41590'
+    url: http://www.gutenberg.org/2009/agents/41590
+  - agent_name: Williston, Samuel
+    birthdate: 1861
+    deathdate: 1963
+    gutenberg_agent_id: '41588'
+    url: http://www.gutenberg.org/2009/agents/41588
+description: Whether used as a research tool or as an artifact of a past era of financial
+  governance, Samuel Williston's Commercial Law is an indispensable reference on the
+  subject. Prepared under the auspices of the American Institute of Banking by an
+  esteemed Harvard Law School professor, this volume is the authoritative guide to
+  commercial law up to and including the early twentieth century.
+gutenberg_issued: '2013-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42241'
+  lccn: '21016307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Commercial law -- United States'
+- !lcc 'HF'
+title: Commercial Law
+url: http://www.gutenberg.org/ebooks/42241
