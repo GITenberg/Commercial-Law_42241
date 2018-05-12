@@ -25,6 +25,8 @@ description: Whether used as a research tool or as an artifact of a past era of 
   subject. Prepared under the auspices of the American Institute of Banking by an
   esteemed Harvard Law School professor, this volume is the authoritative guide to
   commercial law up to and including the early twentieth century.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42241#Commercial-Law
 gutenberg_issued: '2013-03-02'
 gutenberg_type: Text
 identifiers:
